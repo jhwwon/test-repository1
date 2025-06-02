@@ -1,3 +1,6 @@
+[![네이버 검색 고양이 이미지](https://i.pinimg.com/236x/d8/a6/cb/d8a6cbb02bc2c5c27ae238db2e89425d.jpg)](https://www.naver.com)
+[![HEROPY.DEV](/favicon.png)](https://heropy.dev/)
+
 # test-repository1
 테스트용 repository 연습
 
